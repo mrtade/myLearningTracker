@@ -29,11 +29,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Express**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**MongoDB**                       | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Mongoose CRUD**                 | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**DOM Manipulation**              | ![done][done]     |               |                            |                  |                |                 |
+|**DOM Manipulation**              | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**EJS**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**NoSQL**                         | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**JSON**                          | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**GraphQL**                       | ![done][done]     |               |                            |                  |                |                 |
+|**Authentication**                | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**REST APIs**                     | ![done][done]     |               |                            |                  |                |                 |
 |**Talking to APIs**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
