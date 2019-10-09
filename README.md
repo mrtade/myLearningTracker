@@ -60,6 +60,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![In Progress][In Progress] | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
 | ![Soon][Soon]               |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
 | ![Soon][Soon]               |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
+| ![Soon][Soon]               |          | [The Modern GraphQL Bootcamp (with Node.js and Apollo)]         | Andrew Mead                                 |
+| ![Soon][Soon]               |          | [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]    | Jonas Schmedtmann   
 
 [//]: # (Reference links to courses)
 
@@ -69,7 +71,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 [The Complete JavaScript course 2019]: https://www.udemy.com/course/the-complete-javascript-course
 [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]: https://www.udemy.com/course/nodejs-the-complete-guide
 [React - The Complete Guide (incl Hooks, React Router, Redux)]: https://www.udemy.com/course/react-the-complete-guide-incl-redux
-
+[The Modern GraphQL Bootcamp (with Node.js and Apollo)]: https://www.udemy.com/course/graphql-bootcamp
+[Advanced CSS and Sass: Flexbox, Grid, Animations and More!]: https://www.udemy.com/course/advanced-css-and-sass
 ----
 
 ## Interests
@@ -96,7 +99,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
-* [x] Write tests for your code
+* [ ] Write tests for your code
 * [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [ ] Follow developers you admire on social media
