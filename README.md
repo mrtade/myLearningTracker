@@ -35,7 +35,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JSON**                          | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**GraphQL**                       | ![done][done]     |               |                            |                  |                |                 |
 |**Authentication**                | ![done][done]     | ![done][done] |                            |                  |                |                 |
-|**REST APIs**                     | ![done][done]     |               |                            |                  |                |                 |
+|**REST APIs**                     | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Talking to APIs**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |                            |                  |                |                 |
