@@ -23,9 +23,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**Gulp/Babel/Webpack**            | ![done][done]     |               |                            |                  |                |                 |
+|**Gulp/Babel/Webpack**            | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Agile Scrum**                   | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    | ![done][done]  |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**Node.js**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Express**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**MongoDB**                       | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Mongoose CRUD**                 | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
@@ -57,8 +57,8 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Aug 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | Jonas Schmedtmann                           |
 | ![Completed][Completed]     | Oct 2019 | [JavaScript: Understanding the weird parts]                     | Anthony Alicea                              |
 | ![In Progress][In Progress] | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angelu Yu                                   |
-| ![In Progress][In Progress] | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
-| ![Soon][Soon]               |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
+| ![Completed][Completed]     | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
+| ![In Progress][In Progress] |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
 | ![Soon][Soon]               |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
 | ![Soon][Soon]               |          | [The Modern GraphQL Bootcamp (with Node.js and Apollo)]         | Andrew Mead                                 |
 | ![Soon][Soon]               |          | [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]    | Jonas Schmedtmann   
@@ -83,7 +83,7 @@ I'm currently interested in/excited about:
 + GraphQL
 + React
 + Vue
-+ JavaScript best practice
++ JavaScript best practices
 + Object Oriented Programming
 + Functional Programming
 
@@ -116,6 +116,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [ ] Get paid to code
+* [ ] Start up an online business for a friend
 * [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
