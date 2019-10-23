@@ -40,7 +40,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**NPM**                           | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     |               |                            |                  |                |                 |
-|**Model View Controller (MVC)**   | ![done][done]     |               |                            |                  |                |                 |
+|**Model View Controller (MVC)**   | ![done][done]     | ![done][done] |                            |                  |                |                 |
 
 ----
 
