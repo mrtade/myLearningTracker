@@ -15,7 +15,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**CSS3**                          | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**React**                         | ![done][done]     |               |                            |                  |                |                 |
+|**React**                         | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**SASS & Flex-box**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
@@ -56,10 +56,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Aug 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | Jonas Schmedtmann                           |
 | ![Completed][Completed]     | Oct 2019 | [JavaScript: Understanding the weird parts]                     | Anthony Alicea                              |
-| ![In Progress][In Progress] | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angelu Yu                                   |
+| ![Completed][Completed]     | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angelu Yu                                   |
 | ![Completed][Completed]     | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
 | ![In Progress][In Progress] |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
-| ![Soon][Soon]               |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
+| ![In Progress][In Progress] |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
 | ![Soon][Soon]               |          | [The Modern GraphQL Bootcamp (with Node.js and Apollo)]         | Andrew Mead                                 |
 | ![Soon][Soon]               |          | [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]    | Jonas Schmedtmann   
 
