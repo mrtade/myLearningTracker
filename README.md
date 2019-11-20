@@ -16,6 +16,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**Vue**                           | ![done][done]     |               |                            |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**SASS & Flex-box**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
