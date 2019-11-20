@@ -57,7 +57,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | Aug 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | Jonas Schmedtmann                           |
 | ![Completed][Completed]     | Oct 2019 | [JavaScript: Understanding the weird parts]                     | Anthony Alicea                              |
-| ![Completed][Completed]     | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angelu Yu                                   |
+| ![Completed][Completed]     | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angela Yu                                   |
 | ![Completed][Completed]     | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
 | ![In Progress][In Progress] |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
 | ![In Progress][In Progress] |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
