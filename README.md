@@ -17,6 +17,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Vue**                           | ![done][done]     |               |                            |                  |                |                 |
+|**Progressive Web Apps (PWAs)**   | ![done][done]     |               |                            |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**SASS & Flex-box**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
@@ -24,7 +25,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Git**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**GitHub**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**Gulp/Babel/Webpack**            | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**Babel/Webpack**                 | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Agile Scrum**                   | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    | ![done][done]  |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Express**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
