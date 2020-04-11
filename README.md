@@ -12,35 +12,31 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Working Knowledge     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:--------------------------:|:----------------:|:--------------:|:---------------:|
 |**HTML5**                         | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
+|**CSS3 (incl. Flexbox & Grid)**   | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
+|**SASS**                          | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**JavaScript (ES5+)**             | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**React**                         | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Vue**                           | ![done][done]     |               |                            |                  |                |                 |
 |**Progressive Web Apps (PWAs)**   | ![done][done]     |               |                            |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**SASS & Flex-box**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**Git & Github**                  | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**Git**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**Babel/Webpack**                 | ![done][done]     | ![done][done] |                            |                  |                |                 |
-|**Agile Scrum**                   | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    | ![done][done]  |                 |
+|**DOM Manipulation**              | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
+|**NPM**                           | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Express**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**MongoDB**                       | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Mongoose CRUD**                 | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**DOM Manipulation**              | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**EJS**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**NoSQL**                         | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**JSON**                          | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**GraphQL**                       | ![done][done]     |               |                            |                  |                |                 |
+|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
+|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
+|**Babel/Webpack**                 | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**Agile Scrum**                   | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    | ![done][done]  |                 |
 |**Authentication**                | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**REST APIs**                     | ![done][done]     | ![done][done] |                            |                  |                |                 |
-|**Talking to APIs**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Open Source Contribution**      | ![done][done]     |               |                            |                  |                |                 |
 |**Model View Controller (MVC)**   | ![done][done]     | ![done][done] |                            |                  |                |                 |
 
@@ -60,6 +56,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Oct 2019 | [JavaScript: Understanding the weird parts]                     | Anthony Alicea                              |
 | ![Completed][Completed]     | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angela Yu                                   |
 | ![Completed][Completed]     | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
+| ![Completed][Completed]     | Apr 2020 | [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)]    | Maximilian Schwarzmüller                    |
 | ![In Progress][In Progress] |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
 | ![In Progress][In Progress] |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
 | ![Soon][Soon]               |          | [The Modern GraphQL Bootcamp (with Node.js and Apollo)]         | Andrew Mead                                 |
@@ -75,6 +72,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [React - The Complete Guide (incl Hooks, React Router, Redux)]: https://www.udemy.com/course/react-the-complete-guide-incl-redux
 [The Modern GraphQL Bootcamp (with Node.js and Apollo)]: https://www.udemy.com/course/graphql-bootcamp
 [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]: https://www.udemy.com/course/advanced-css-and-sass
+[CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)]: https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass
 ----
 
 ## Interests
@@ -119,7 +117,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Contribute to open source
 * [ ] Get paid to code
 * [ ] Start up an online business for a friend
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
