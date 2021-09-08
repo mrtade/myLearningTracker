@@ -14,13 +14,13 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**HTML5**                         | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    | ![done][done]  |
 |**CSS3**                          | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    | ![done][done]  |
 |**SCSS**                          | ![done][done]     | ![done][done]   | ![done][done]              |                  |                |
-|**JavaScript**                    | ![done][done]     | ![done][done]   | ![done][done]              |                  |                |
-|**React**                         | ![done][done]     | ![done][done]   |                            |                  |                |
+|**JavaScript**                    | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    |                |
+|**React**                         | ![done][done]     | ![done][done]   | ![done][done]              |                  |                |
 |**Vue**                           | ![done][done]     | ![done][done]   |                            |                  |                |
 |**Progressive Web Apps (PWAs)**   | ![done][done]     |                 |                            |                  |                |
 |**Git & Github**                  | ![done][done]     | ![done][done]   | ![done][done]              |                  |                |
 |**Responsive design**             | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    |                |
-|**DOM Manipulation**              | ![done][done]     | ![done][done]   | ![done][done]              |                  |                |
+|**DOM Manipulation**              | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    |                |
 |**Node.js**                       | ![done][done]     | ![done][done]   |                            |                  |                |
 |**NPM/Yarn**                      | ![done][done]     | ![done][done]   |                            |                  |                |
 |**Express**                       | ![done][done]     | ![done][done]   |                            |                  |                |
@@ -28,10 +28,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**MongoDB**                       | ![done][done]     | ![done][done]   |                            |                  |                |
 |**Mongoose CRUD**                 | ![done][done]     | ![done][done]   |                            |                  |                |
 |**Liquid(Shopify)**               | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    |                |
-|**EJS**                           | ![done][done]     | ![done][done]   |                            |                  |                |
+|**TypeScript**                    | ![done][done]     | ![done][done]   |                            |                  |                |
 |**GraphQL**                       | ![done][done]     |                 |                            |                  |                |
 |**jQuery**                        | ![done][done]     | ![done][done]   | ![done][done]              |                  |                |
-|**Bootstrap**                     | ![done][done]     | ![done][done]   |                            |                  |                |
+|**TailwindCSS**                   | ![done][done]     | ![done][done]   |                            |                  |                |
 |**Babel/Webpack**                 | ![done][done]     | ![done][done]   |                            |                  |                |
 |**Agile Scrum**                   | ![done][done]     | ![done][done]   | ![done][done]              | ![done][done]    | ![done][done]  |
 |**Authentication**                | ![done][done]     | ![done][done]   |                            |                  |                |
@@ -80,9 +80,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 I'm currently interested in/excited about:
 
 + React
-+ Vue
-+ APIs, Webhooks
-+ Async JavaScript
++ Node, JavaScript
++ TypeScript
++ Cloud technologies
 + Functional Programming
 + Object Oriented Programming
 + GraphQL
@@ -103,15 +103,15 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Write tests for your code
 * [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
-* [ ] Follow developers you admire on social media
-* [ ] Read a book about coding
+* [x] Follow developers you admire on social media
+* [x] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
 * [x] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [ ] Complete a technical interview
+* [x] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
